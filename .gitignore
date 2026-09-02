@@ -1,0 +1,34 @@
+# --- Node / Next.js (frontend) ---
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# --- Python (backend) ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.db
+
+# --- Local env / secrets ---
+.env
+.env.local
+.env.*.local
+
+# --- Machine-local tooling ---
+.claude/
+.DS_Store
+
+# --- Logs ---
+*.log
+npm-debug.log*
+
+# --- Internal Planning & Documentation ---
+brain.md
+decision.md
+flow.md
+phase.md
+implementation.md
