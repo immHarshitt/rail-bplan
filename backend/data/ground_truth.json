@@ -1,0 +1,376 @@
+{
+  "bundle_opportunities": [
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        292,
+        367
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        0.227,
+        5.555
+      ],
+      "task_count": 2
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        211,
+        367,
+        323,
+        328
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        1.751,
+        6.732
+      ],
+      "task_count": 4
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        367,
+        299,
+        215
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        3.646,
+        5.512
+      ],
+      "task_count": 3
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        299,
+        323,
+        328,
+        363
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        3.982,
+        9.487
+      ],
+      "task_count": 4
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        215,
+        323,
+        328,
+        363
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        4.96,
+        9.487
+      ],
+      "task_count": 4
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        323,
+        275
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        5.32,
+        11.517
+      ],
+      "task_count": 2
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        328,
+        275
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        5.32,
+        11.517
+      ],
+      "task_count": 2
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        363,
+        275
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        8.369,
+        11.517
+      ],
+      "task_count": 2
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        275,
+        343
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        10.881,
+        14.094
+      ],
+      "task_count": 2
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        343,
+        316,
+        295
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        13.955,
+        17.319
+      ],
+      "task_count": 3
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        316,
+        352
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        16.708,
+        21.385
+      ],
+      "task_count": 2
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        295,
+        352
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        16.762,
+        21.385
+      ],
+      "task_count": 2
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        352,
+        213
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        19.478,
+        24.526
+      ],
+      "task_count": 2
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        272,
+        360
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        46.288,
+        48.438
+      ],
+      "task_count": 2
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        330,
+        207,
+        386
+      ],
+      "departments": [
+        "ENGG",
+        "SNT",
+        "TRD"
+      ],
+      "km_span": [
+        67.53,
+        68.827
+      ],
+      "task_count": 3
+    },
+    {
+      "corridor_id": 8,
+      "corridor_code": "NDLS-GZB-UP",
+      "request_ids": [
+        207,
+        386
+      ],
+      "departments": [
+        "ENGG",
+        "TRD"
+      ],
+      "km_span": [
+        67.682,
+        68.827
+      ],
+      "task_count": 2
+    },
+    {
+      "corridor_id": 9,
+      "corridor_code": "NDLS-GZB-DN",
+      "request_ids": [
+        222,
+        382,
+        346,
+        326,
+        324
+      ],
+      "departments": [
+        "ENGG",
+        "SNT",
+        "TRD"
+      ],
+      "km_span": [
+        2.74,
+        7.916
+      ],
+      "task_count": 5
+    },
+    {
+      "corridor_id": 9,
+      "corridor_code": "NDLS-GZB-DN",
+      "request_ids": [
+        297,
+        382,
+        346,
+        326,
+        324
+      ],
+      "departments": [
+        "ENGG",
+        "SNT",
+        "TRD"
+      ],
+      "km_span": [
+        2.74,
+        7.916
+      ],
+      "task_count": 5
+    },
+    {
+      "corridor_id": 9,
+      "corridor_code": "NDLS-GZB-DN",
+      "request_ids": [
+        382,
+        346,
+        326,
+        202,
+        221,
+        241,
+        244,
+        324,
+        311
+      ],
+      "departments": [
+        "ENGG",
+        "SNT",
+        "TRD"
+      ],
+      "km_span": [
+        3.406,
+        8.217
+      ],
+      "task_count": 9
+    },
+    {
+      "corridor_id": 9,
+      "corridor_code": "NDLS-GZB-DN",
+      "request_ids": [
+        346,
+        202,
+        221,
+        241,
+        244,
+        311
+      ],
+      "departments": [
+        "ENGG",
+        "SNT"
+      ],
+      "km_span": [
+        4.417,
+        8.217
+      ],
+      "task_count": 6
+    }
+  ],
+  "shadow_candidates": [],
+  "hard_cases": []
+}

@@ -1,0 +1,27 @@
+# Core dependencies
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# Database
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+alembic==1.13.1
+
+# Optimization
+ortools==9.8.3296
+
+# ML/Data
+numpy==1.26.3
+pandas==2.1.4
+scikit-learn==1.4.0
+xgboost==2.0.3
+
+# Graph algorithms
+networkx==3.2.1
+
+# Utilities
+python-multipart==0.0.6
+python-dateutil==2.8.2
+pyyaml==6.0.1
